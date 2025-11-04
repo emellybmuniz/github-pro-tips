@@ -206,8 +206,9 @@ Desenvolvido por **Emelly Beatriz** com ❤️
 🐙 [Github](https://github.com/emellybmuniz)
 
 
-*Última atualização: Novembro de 2025*
-
 ---
 
 ⭐ **Gostou do Conteúdo?** Deixe uma estrela no repositório para consultar depois!
+
+*Última atualização: Novembro de 2025*
+
