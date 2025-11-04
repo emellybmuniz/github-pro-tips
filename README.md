@@ -190,7 +190,7 @@ Se você usa o GitHub Copilot no github.dev ou VS Code:
 Este guia foi criado com base em:
 
 * Documentação oficial do GitHub
-* GitHub Blog ([github.blog])(https://github.blog/)
+* GitHub Blog ([github.blog](https://github.blog/))
 * Comunidades de desenvolvedores ([Dev.to](https://dev.to/), [Reddit](https://www.reddit.com/), [Stack Overflow](https://stackoverflow.com/))
 * Experiências práticas de uso do GitHub
 * GitHub Code Search ([cs.github.com](https://github.com/search?type=code))
