@@ -86,10 +86,10 @@ Ao abrir o editor web (pressionando <kbd>.</kbd>), você tem acesso a diversos a
 * <kbd>G</kbd> + <kbd>P</kbd> → Ir para **Pull Requests**.
 * <kbd>G</kbd> + <kbd>D</kbd> → Ir para **Homepage** (Dashboard).
 * <kbd>G</kbd> + <kbd>N</kbd> → Ir para **Notificações**.
-* <kbd>G</kbd> + <kbd>B</kbd> → Ir para **Projects** (repositório).
+* <kbd>G</kbd> + <kbd>B</kbd> → Ir para **Projects** (Repositório).
 * <kbd>G</kbd> + <kbd>A</kbd> → Ir para **Actions**.
-* <kbd>G</kbd> + <kbd>W</kbd> → Ir para **Wiki**.
-* <kbd>G</kbd> + <kbd>G</kbd> → Ir para **Discussões**.
+* <kbd>G</kbd> + <kbd>W</kbd> → Ir para **Wiki** (Repositório).
+* <kbd>G</kbd> + <kbd>G</kbd> → Ir para **Discussões** (Repositório).
 
 ## 🤖 6. GitHub Actions
 
@@ -207,3 +207,7 @@ Desenvolvido por **Emelly Beatriz** com ❤️
 
 
 *Última atualização: Novembro de 2025*
+
+---
+
+⭐ **Gostou do Conteúdo?** Deixe uma estrela no repositório para consultar depois!
